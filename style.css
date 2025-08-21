@@ -1,17 +1,17 @@
 header{
     border-bottom: double 4px rgb(165, 165, 165);
-    padding: 35px;
+    padding: 85px;
 }
 body{
-    background-color: rgb(5, 151, 0)
-    color( rgb(16, 90, 13)) ;
+    background-color: rgb(160, 160, 160)
+    color( rgb(85, 0, 124)) ;
     font-family:"Honk&display"
     
 }
 h1{
-    font-size: 20px;
+    font-size: 40px;
 }
 p{
-    font-size: 8px;
+    font-size: 20px;
 }
  
