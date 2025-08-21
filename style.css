@@ -1,5 +1,6 @@
 header{
-    border-bottom: double;
+    border-bottom: double 4px rgb(165, 165, 165);
+    padding: 35px;
 }
 body{
     background-color: rgb(5, 151, 0)
